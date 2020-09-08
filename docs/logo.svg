@@ -1,6 +1,0 @@
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="300" height="300">
-	<circle  cx="150" cy="150" r="90" stroke-width="12" stroke="black" fill="white" />
-                <ellipse cx="120" cy="140" rx="20" ry="20" fill="red"/>
-                <ellipse cx="180" cy="120" rx="20" ry="20" fill="blue"/>
-                <path id="curve" d="M 110 205 Q 150 160, 190 205" fill="green"/>
-</svg>
